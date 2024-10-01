@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistem Operasi</title>
+</head>
+<body>
+    <h1>Contoh Sistem Operasi</h1>
+    <br>
+    <ol>
+        <h3><li>(IPhone OS)</li></h3>
+            <br>
+            <img src="IOS.jpg" alt="UI IOS" width="300px">
+            <br><br>
+            <ol><b>Kelebihan:</b>
+                <br> <br>
+                <ul type="disc">
+                    <li>UI yang Sederhana</li>
+                    <li>Keamanan Kuat</li>
+                    <li>Update OS Teratur</li>
+                    <li>Ekosistem Apple</li>
+                    <li>Apps Store Terjamin</li>
+                </ul>
+            </ol>
+            <br>
+            <ol><b>Kekurangan:</b>
+                <br><br>
+                <ul type="disc">
+                <li>Keterbatasan Kustomisasi</li>
+                <li>Harga Perangkat Tinggi</li>
+                <li>Ekosistem Tertutup</li>
+                <li>Kurangnya Slot Ekspansi Memori</li>
+                <li>Batasan Transfer File</li>
+                <li>Aplikasi Terkadang Berbayar</li>
+                </ul>
+            </ol>
+            <br>
+        </li>
+        <h3><li>Linux (Ubuntu)</li></h3>
+            <img src="Linux.png" alt="UI Linux" width="300px">
+            <br> <br>
+            <ol><b>Kelebihan:</b>
+                <br><br>
+                <ul type="disc">
+                    <li>Gratis dan Open Source</li>
+                    <li>Keamanan Baik</li>
+                    <li>Performa Stabil dan Efisien</li>
+                    <li>Update Teratur</li>
+                    <li>Komunitas Besar</li>
+                </ul>
+            </ol>
+            <br>
+            <ol><b>Kekurangan:</b>
+                <br><br>
+                <ul type="disc">
+                    <li>Tidak Sepopuler Seperti Windows dan MacOS</li>
+                    <li>Keterbatasan Aplikasi Komersial</li>
+                    <li>Dukungan Gaming Terbatas</li>
+                    <li>Kurangnya Dukungan Teknis Resmi</li>
+                </ul>
+            </ol>
+            <br>
+        </li>
+        <h3><li>Unix</li></h3>
+            <img src="Unix.jpg" alt="UI Unix" width="300px">
+            <br> <br>
+            <ol><b>Kelebihan:</b>
+                <br><br>
+                <ul type="disc">
+                    <li>Stabil dan Handal</li>
+                    <li>Keamanan yang Kuat</li>
+                    <li>Multiuser dan Multitasking</li>
+                    <li>Portabilitas Tinggi</li>
+                    <li>File Sistem yang Efisien</li>
+                    <li>Dukungan untuk Pemrograman</li>
+                    <li>Open Source dan Varian Beragam</li>
+                </ul>
+                <br>
+            </ol>
+            <ol><b>Kekurangan:</b>
+                <br><br>
+                <ul type="disc">
+                    <li>Kustomisasi yang Rumit</li>
+                    <li>Biaya Lisensi Untuk Beberapa Varian</li>
+                    <li>Tidak Ramah Pengguna Biasa</li>
+                    <li>Keterbatasan Dukungan Aplikasi Komersial</li>
+                    <li>Kompatibilitas Perangkat Keras</li>
+                </ul>
+                <br>
+            </ol>
+        </li>
+        <h3><li>Amiga</li></h3>
+            <img src="Amiga.png" alt="UI Amiga" width="300px">
+            <br> <br>
+            <ol><b>Kelebihan:</b>
+                <br><br>
+                <ul type="disc">
+                    <li>Grafis dan Multimedia yang Canggih pada Zamannya</li>
+                    <li>Multitasking Preemptive</li>
+                    <li>Kualitas Audio yang Unggul</li>
+                    <li>Fleksibilitas dalam Penggunaan Perangkat Lunak</li>
+                    <li>Ekosistem Game yang Kuat</li>
+                    <li>Antarmuka Grafis yang Bersih dan Mudah Digunakan</li>
+                    <li>Komunitas dan Pengembangan Open Source</li>
+                </ul>
+            </ol>
+            <br>
+            <ol><b>Kekurangan:</b>
+                <br><br>
+                <ul type="disc">
+                    <li>Kurangnya Dukungan Perangkat Keras Modern</li>
+                    <li>Pasar yang Terbatas</li>
+                    <li>Keterbatasan Pengembangan Perangkat Lunak</li>
+                    <li>Tidak Ada Dukungan Multiplatform</li>
+                    <li>Manajemen Memori yang Terbatas</li>
+                    <li>Kompetisi yang Meningkat</li>
+                    <li>Kegagalan Manajemen Perusahaan</li>
+                </ul>
+            </ol>
+</body>
+</html>
